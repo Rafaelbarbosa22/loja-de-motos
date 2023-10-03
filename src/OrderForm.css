@@ -1,0 +1,12 @@
+/* components/OrderForm.css */
+
+.order-form {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Estilize o formulário de pedido conforme necessário */

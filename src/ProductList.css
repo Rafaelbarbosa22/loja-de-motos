@@ -1,0 +1,12 @@
+/* components/ProductList.css */
+
+.product-list {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Estilize os itens da lista de produtos conforme necessário */
